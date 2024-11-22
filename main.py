@@ -1,6 +1,6 @@
 from database import Database
 from task_manager import TaskManager
-from gui import GUI
+from ui import GUI
 
 def main():
     db = Database()
